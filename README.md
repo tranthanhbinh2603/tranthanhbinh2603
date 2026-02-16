@@ -1,6 +1,6 @@
-# Hi 👋, I'm Trần Thanh Bình
+# Hi 👋, I'm Tran Thanh Binh
 
-### A passionate developer from around the world
+### A passionate developer from Dong Nai, Viet Nam
 
 - 🔭 I'm currently working on **AnhEmMotor Project**
 
