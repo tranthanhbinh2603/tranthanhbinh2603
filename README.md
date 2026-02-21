@@ -33,8 +33,17 @@ I build scalable web applications with a strong focus on system architecture, ad
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranthanhbinh2603" alt="tranthanhbinh2603 streak stats" />
 </p>
 
+#### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+#### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tranthanhbinh2603&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 #### 📫 Let's Connect
 * **Portfolio / CV:** [vietcv.io/cvs/548266/portfolio](https://vietcv.io/cvs/548266/portfolio)
 * **Email:** hoctap.tranthanhbinh@gmail.com
 * **Social:** <a href="https://linkedin.com/in/tranthanhbinh2603" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" /></a>
   <a href="https://github.com/tranthanhbinh2603" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="20" width="30" /></a>
+
+
+
