@@ -24,7 +24,7 @@ I build scalable web applications with a strong focus on system architecture, ad
 
 **Database, DevOps & Design**
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb,nginx,git,figma" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb,nginx,git" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="48" height="48" style="transform: translateY(-5px);"/>
 </p>
 
