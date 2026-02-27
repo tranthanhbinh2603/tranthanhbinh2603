@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tran Thanh Binh
 
-### Fullstack Developer | .NET Core & Vue.js Ecosystem
+### Backend & Frontend Developer | .NET Core & Vue.js Ecosystem
 
 I build scalable web applications with a strong focus on system architecture, advanced caching mechanisms, and optimal UI/UX experiences. 
 
