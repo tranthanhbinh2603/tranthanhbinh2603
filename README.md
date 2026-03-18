@@ -6,8 +6,6 @@ I build scalable web applications with a strong focus on system architecture, ad
 
 #### 🚀 What I'm currently working on
 * **AnhEmMotor:** Developing the core system (Graduation Project) utilizing **ASP.NET Core** for a robust backend and **Vue.js** for a reactive frontend.
-* **Architecture & Infrastructure:** Managing application deployment and configuration on **Linux** and **Windows Server**.
-* **Frontend Deep Dive:** Exploring advanced **Next.js** features including Partial Pre-Rendering, Server/Client Components, and complex caching strategies (`noStore`, `revalidate`, `Full Route Cache`).
 * **System Design:** Expanding knowledge in large-scale system architecture, **i18n**, **Redis**, and integrating optimal UI/UX patterns (Skeleton loading, containerization).
 
 #### 🛠️ Tech Stack & Tools I Know (May not be proficient)
